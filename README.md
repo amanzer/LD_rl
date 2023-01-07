@@ -1,6 +1,6 @@
 # LD_rl
 
-Pycharm is recommended to run the code, but if prefer to run it using the terminal, set the PYTHONPATH variable :
+Pycharm is recommended to run the code, but if you prefer to run it using the terminal, set the PYTHONPATH variable first :
 
 ```
 export PYTHONPATH=$PATHONPATH:'pwd'
